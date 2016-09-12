@@ -1,5 +1,5 @@
-require 'minitest'
-require 'tutnese.rb'
+require 'minitest/autorun'
+require './tutnese'
 
 
 describe 'tutnese' do
